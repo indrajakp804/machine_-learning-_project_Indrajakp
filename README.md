@@ -1,4 +1,4 @@
-Project Title:Marketing Campaign for Banking Products
+Project Title: Marketing Campaign for Banking Products
 
 Data Description:
 The file Bank.xls contains data on 5000 customers. The data include customer
