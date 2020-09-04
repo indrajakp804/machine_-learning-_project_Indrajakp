@@ -23,6 +23,7 @@ success ratio while at the same time reduce the cost of the campaign.
 Attribute Information:
 
  ● ID: Customer ID
+
  ● Age: Customer's age in completed years
 
  ● Experience: #years of professional experience
@@ -40,12 +41,12 @@ Attribute Information:
  ● Mortgage: Value of house mortgage if any. ($000)
 
  ● Personal Loan: Did this customer accept the personal loan offered in the last
-campaign?
+                  campaign?
 
  ● Securities Account: Does the customer have a securities account with the bank?
 
  ● CD Account: Does the customer have a certificate of deposit (CD) account with
-the bank?
+               the bank?
  
  ● Online: Does the customer use internet banking facilities?
 
