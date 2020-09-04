@@ -40,12 +40,10 @@ Attribute Information:
  ● Credit card: Does the customer use a credit card issued by the bank?
 
 Objective:
-
 The classification goal is to predict the likelihood of a liability customer buying personal
 loans.
 
 Steps and tasks:
-
 1. Import the datasets and libraries, check datatype, statistical summary, shape, null
    values etc
 
