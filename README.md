@@ -44,13 +44,13 @@ The classification goal is to predict the likelihood of a liability customer buy
 loans.
 
 Steps and tasks:
-1. Import the datasets and libraries, check datatype, statistical summary, shape, null
-   values etc
+1. Import the datasets and libraries, check datatype, statistical summary,
+   shape, null values etc
 
 2.Clean the data for any of the variables
 
-3. EDA: Study the data distribution in each attribute and target variable, share your
-   findings.
+3. EDA: Study the data distribution in each attribute and target variable,
+    share yourfindings.
 
  ● Number of unique in each column?
 
@@ -64,10 +64,11 @@ Steps and tasks:
 
 4. Apply necessary transformations for the feature variables
 
-5. Normalise the data and split the data into training and test set in the ratio of 70:30 respectively
+5. Normalise the data and split the data into training and test set in the 
+   ratio of 70:30 respectively
 
-6. Use the Logistic Regression model to predict the likelihood of a customer buying
-   personal loans.
+6. Use the Logistic Regression model to predict the likelihood of a customer 
+   buying personal loans.
 
 7. Print all the metrics related for evaluating the model performance
 
